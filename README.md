@@ -6,5 +6,5 @@ NUC8 I5 BEH 黑苹果引导 EFI 15.7.3 未硬件修改，wifi,蓝牙安装laobam
 
 ![JeoJay127/OCLP-X](https://github.com/JeoJay127/OCLP-X)
 
-![https://github.com/JeoJay127/OCLP-X](https://github.com/laobamac/OCLP-Mod)
+![laobamac/OCLP-X-(https://github.com/laobamac/OCLP-Mod)
 
